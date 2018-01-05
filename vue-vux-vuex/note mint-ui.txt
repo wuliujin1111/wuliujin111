@@ -1,0 +1,22 @@
+1,npm install -g vue-cli   全局安装vue脚手架
+
+2.vue init webpack pro  用当前文件夹直接不写projectname  直接敲回车即可
+
+  cd pro         将build中的webpack.base.config中的语法验证注释掉
+
+3. cnpm i fetch-json json jquery axios -D
+
+4. cnpm i vue-resource mint-ui -S
+
+5, cnpm i
+
+6. cnpm i style-loader node-sass sass-loader css-loader -S
+
+7. cnpm run dev
+
+8. netstat -aon | findstr "8080"关闭该关口
+
+mint-ui框架的搭建
+下拉刷新 上拉加载
+
+flex布局详解http://www.ruanyifeng.com/blog/2015/07/flex-grammar.html
